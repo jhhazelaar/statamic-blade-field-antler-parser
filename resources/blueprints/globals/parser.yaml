@@ -1,0 +1,17 @@
+tabs:
+  main:
+    display: Main
+    sections:
+      -
+        fields:
+          -
+            handle: parser
+            field:
+              antlers: false
+              type: textarea
+              display: Parser
+              icon: textarea
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              hide_display: false
